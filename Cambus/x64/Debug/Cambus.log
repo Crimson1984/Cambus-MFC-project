@@ -1,0 +1,19 @@
+﻿  CImageView.cpp
+D:\MFC\Cambus-v2.5.1\CImageView.cpp(332,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/CImageView.cpp”)
+  
+D:\MFC\Cambus-v2.5.1\CImageView.cpp(333,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/CImageView.cpp”)
+  
+D:\MFC\Cambus-v2.5.1\CImageView.cpp(374,20): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CImageView.cpp”)
+  
+D:\MFC\Cambus-v2.5.1\CImageView.cpp(375,20): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CImageView.cpp”)
+  
+  Cambus.cpp
+  CambusView.cpp
+  MainFrm.cpp
+  正在生成代码...
+D:\MFC\Cambus-v2.5.1\CImageView.cpp(661,1): warning C4715: “CImageView::GetMarkerImage”: 不是所有的控件路径都返回值
+  Cambus.vcxproj -> D:\MFC\Cambus-v2.5.1\x64\Debug\Cambus.exe
