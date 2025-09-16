@@ -1,0 +1,11 @@
+# Visual Studio 生成文件
+.vs/
+*.vc.db
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.log
